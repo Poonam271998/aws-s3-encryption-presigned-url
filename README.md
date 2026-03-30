@@ -9,8 +9,6 @@ This project demonstrates how to secure an Amazon S3 bucket by enabling default 
 ## 👤 Author
 
 **Name:** Poonam Langote
-**Assignment:** Task 7 – Enable Default SSE-S3 Encryption & Generate Pre-Signed URLs
-**Submission Date:** 30/03/2026
 **AWS Region:** us-east-1
 
 ---
