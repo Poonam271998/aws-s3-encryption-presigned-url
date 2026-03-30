@@ -9,6 +9,7 @@ This project demonstrates how to secure an Amazon S3 bucket by enabling default 
 ## 👤 Author
 
 **Name:** Poonam Langote
+
 **AWS Region:** us-east-1
 
 ---
